@@ -64,7 +64,7 @@ React | JavaScript | UI/UX Enthusiast
   - User registration & authentication  
   - Dynamic cart with real-time updates  
 - 🔗 [Repository](https://github.com/RaV-121/Instagram-copy)
-- [Visit site of project](https://rav-121.github.io/Instagram-copy)
+- 🔗 [Visit project site](https://rav-121.github.io/Instagram-copy)
 
 ---
 
