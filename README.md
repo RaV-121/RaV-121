@@ -63,7 +63,8 @@ React | JavaScript | UI/UX Enthusiast
 - **Key Features:**  
   - User registration & authentication  
   - Dynamic cart with real-time updates  
-- 🔗 [Repository](https://github.com/RaV-121/Instagram-copy)  
+- 🔗 [Repository](https://github.com/RaV-121/Instagram-copy)
+- [Visit site of project](https://rav-121.github.io/Instagram-copy)
 
 ---
 
